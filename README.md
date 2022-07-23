@@ -10,7 +10,7 @@ class About(Me):
         return ['Python', 'Java', '.Net 6', 'Node.Js']
 
     def get_tools_knowledge(self):
-        return ['Docker', 'K8S', 'Terraform', 'Ansible']
+        return ['Docker', 'k8s', 'Terraform', 'Ansible']
 
     def get_interests(self):
         return ['Software Architecture', 'Cloud', 'DevOps']
