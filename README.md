@@ -13,7 +13,7 @@ class About(Me):
         return ['Docker', 'k8s', 'Terraform', 'Ansible']
 
     def get_interests(self):
-        return ['Software Architecture', 'Cloud', 'DevOps']
+        return ['Software Architecture', 'Cloud', 'DevOps', 'Software Engineering']
 
     def get_current_work(self):
         return {
