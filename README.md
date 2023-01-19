@@ -7,7 +7,7 @@ from joao.victorino import me as Me
 class About(Me):
 
     def get_code_knowledge(self):
-        return ['Python', 'Java', '.Net 6', 'Typescript']
+        return ['Typescript', 'Python', 'Java', '.Net 6']
 
     def get_tools_knowledge(self):
         return ['Docker', 'k8s', 'Terraform', 'Ansible']
