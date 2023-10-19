@@ -7,7 +7,7 @@ from joao.victorino import me as Me
 class About(Me):
 
     def get_code_knowledge(self):
-        return ['Typescript', 'Python', 'Java', '.Net 6']
+        return ['Typescript', 'Python', 'Java', '.Net']
 
     def get_tools_knowledge(self):
         return ['Docker', 'k8s', 'Terraform', 'Ansible']
@@ -18,7 +18,7 @@ class About(Me):
     def get_current_work(self):
         return {
             'company': 'Prodam',
-            'position': 'Software Architect'
+            'position': 'Solution Architect'
         }
 
 ```
