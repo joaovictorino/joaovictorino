@@ -13,9 +13,8 @@
 </p>
 
 <p align="center">
-  <a href="LINKEDIN">LinkedIn</a> •
-  <a href="https://joaovictorino.github.io">Website</a> •
-  <a href="YOUTUBE">YouTube</a>
+  [![](https://img.shields.io/badge/LinkedIn-joaovictorino-blue)](https://www.linkedin.com/in/joao-victorino/) •
+  [![](https://img.shields.io/badge/Gmail-jhvictorino@mail.com-red)](mailto:jhvictorino@gmail.com)
 </p>
 
 ---
@@ -40,9 +39,9 @@ My main areas of interest are:
 
 | Project | Architecture |
 |---|---|
-| **[AKS Microservices](LINK)** | Kubernetes · Terraform · Istio · Azure |
-| **[Election Platform](LINK)** | Microservices · EDA · Azure |
-| **AWS Cloud Architecture** | Terraform · EC2/ECS · RDS · ALB |
+| **[AKS Microservices](https://github.com/joaovictorino/terraform-aks-microservices)** | Kubernetes · Terraform · Istio · Azure |
+| **[Election Platform](https://github.com/joaovictorino/microservices-election)** | Microservices · EDA · Azure |
+| **[AWS Cloud Architecture](https://github.com/joaovictorino/terraform-docker-aws-spring)** | Terraform · Fargate · RDS · ALB |
 | **Agentic Architecture** | Multi-Agent Systems · LLM · Observability |
 
 ---
@@ -60,6 +59,4 @@ Currently experimenting with:
 
 I also create technical content and teach topics related to:
 
-**Cloud Architecture · Distributed Systems · DevOps · Software Testing · AI Engineering**
-
-📺 YouTube • 📝 Articles • 🎤 Talks • 👨‍🏫 Teaching
+**Cloud Architecture · Distributed Systems · DevSecOps · Software Testing · AI Engineering**
