@@ -31,8 +31,8 @@ My main areas of interest are:
 - ☁️ Multicloud Architecture — AWS, Azure and GCP
 - 🤖 Agentic Architecture & Multi-Agent Systems
 - 🏗️ Infrastructure as Code with Terraform
-- 🔐 DevSecOps, Cloud Governance, Observability & FinOps
-- ☸️ Kubernetes & Platform Engineering
+- 🔐 DevSecOps, Cloud Governance & FinOps
+- ☸️ Kubernetes, Observability & Platform Engineering
 - ⚡ Microservices & Event-Driven Architecture
 
 ---
