@@ -14,9 +14,6 @@
   <a href="https://www.linkedin.com/in/joao-victorino/">
     <img src="https://img.shields.io/badge/LinkedIn-joaovictorino-blue" alt="LinkedIn">
   </a>
-  <a href="mailto:jhvictorino@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-jhvictorino%40gmail.com-red" alt="Gmail">
-  </a>
 </p>
 
 ---
