@@ -1,6 +1,6 @@
-<p align="center">
+<h1 align="center">
   <strong>Cloud & Solution Architect</strong>
-</p>
+</h1>
 
 <p align="center">
   AWS · Azure · GCP · Kubernetes · Terraform · DevSecOps
