@@ -12,10 +12,8 @@
   Designing cloud platforms, distributed systems and infrastructure automation.
 </p>
 
-<p align="center">
-  [(https://img.shields.io/badge/LinkedIn-joaovictorino-blue)](https://www.linkedin.com/in/joao-victorino/)
-  [(https://img.shields.io/badge/Gmail-jhvictorino@mail.com-red)](mailto:jhvictorino@gmail.com)
-</p>
+[![](https://img.shields.io/badge/LinkedIn-joaovictorino-blue)](https://www.linkedin.com/in/joao-victorino/)
+[![](https://img.shields.io/badge/Gmail-jhvictorino@mail.com-red)](mailto:jhvictorino@gmail.com)
 
 ---
 
