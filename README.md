@@ -1,24 +1,44 @@
-[![](https://img.shields.io/badge/LinkedIn-joaovictorino-blue)](https://www.linkedin.com/in/joao-victorino/)
-[![](https://img.shields.io/badge/Gmail-jhvictorino@mail.com-red)](mailto:jhvictorino@gmail.com)
+João Victorino
+Cloud & Solution Architect
 
-```python3
-from joao.victorino import me as Me
+AWS · Azure · GCP · Kubernetes · Terraform · DevSecOps
 
-class About(Me):
+Building cloud platforms, distributed systems and
+infrastructure automation.
 
-    def get_code_knowledge(self):
-        return ['Typescript', 'Python', 'Java', '.Net']
+────────────────────────────────
 
-    def get_tools_knowledge(self):
-        return ['Docker', 'k8s', 'Terraform', 'Ansible']
+Architecture Focus
 
-    def get_interests(self):
-        return ['Cloud', 'DevOps', 'Software Architecture', 'Software Engineering']
+Multicloud        Kubernetes
+Platform Eng.     Infrastructure as Code
+DevSecOps         Observability
+FinOps            Distributed Systems
 
-    def get_current_work(self):
-        return {
-            'company': 'Prodam',
-            'position': 'Solution Architect'
-        }
+────────────────────────────────
 
-```
+Featured Architectures
+
+[ AKS Microservices ]
+[ AWS Enterprise Architecture ]
+[ Event Driven Architecture ]
+[ Agentic Architecture ]
+
+────────────────────────────────
+
+Open Source / Labs
+
+Terraform modules
+Kubernetes
+Testing & AI Evaluation
+Cloud Architecture
+
+────────────────────────────────
+
+Technical Content
+
+YouTube · Articles · Talks · Teaching
+
+────────────────────────────────
+
+LinkedIn · Website · YouTube
