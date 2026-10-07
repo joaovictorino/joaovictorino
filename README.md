@@ -29,6 +29,7 @@ distributed systems and cloud-native architectures.
 My main areas of interest are:
 
 - ☁️ Multicloud Architecture — AWS, Azure and GCP
+- 🤖 Agentic Architecture & Multi-Agent Systems
 - ☸️ Kubernetes & Platform Engineering
 - 🏗️ Infrastructure as Code with Terraform
 - 🔐 DevSecOps & Cloud Governance
@@ -52,8 +53,7 @@ My main areas of interest are:
 
 Currently experimenting with:
 
-`Terraform` · `Kubernetes` · `Platform Engineering` · `EDA` ·
-`AI Evaluation` · `Agentic Systems`
+`AI Evaluation` · `AI Engineering` · `Agentic Systems` · `Platform Engineering`
 
 ---
 
