@@ -1,5 +1,3 @@
-<h1 align="center">João Victorino</h1>
-
 <p align="center">
   <strong>Cloud & Solution Architect</strong>
 </p>
